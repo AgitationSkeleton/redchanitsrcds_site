@@ -85,7 +85,7 @@ const serverList = [
 	},
 	{
 		id: "tf2c2",
-		name: "REDchanit.xyz | TF2C #2 - April Fools Weapons",
+		name: "REDchanit.xyz | TF2C #2 - Custom Maps",
 		ip: "play.redchanit.xyz:27020",
 		game: "hl2dm",
 		overrideGame: "tf2classic",
